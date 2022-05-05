@@ -19,4 +19,4 @@
 
 ### Front-End 
 
-<img src='1216733.png'>
+<img src='1216733.png' width ="200" height="auto">
