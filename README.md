@@ -20,4 +20,4 @@
 ### Front-End 
 
 
-<img src="html.png"><img src="css.png"><img src="Javascriptpng.png">
+<img src="html.png"><img src="css.png"><img src="js.png">
