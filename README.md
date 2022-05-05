@@ -19,4 +19,4 @@
 
 ### Front-End 
 
-Click on the @icn-camera icon to take a screen shot.
+![1216733](https://user-images.githubusercontent.com/101337694/167028738-2f0ecfc6-cf76-4315-a939-9e679e29eb49.png)
