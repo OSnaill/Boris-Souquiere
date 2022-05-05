@@ -17,8 +17,6 @@
 
 ---
 
-### Front-End 
-
 
 <img src="html.png" width="150" height="auto"><img src="css.png" width="150" height="auto">
 
