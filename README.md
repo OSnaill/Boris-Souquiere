@@ -25,6 +25,4 @@
 
 ## En cours d'acquisition
 
-<img src="JavaScript-Logo.png" width="200" height="auto"><img src="PHP-logo.svg.png" width="150" height="auto">
-
-<img src="Bootstrap_logo.svg.png" width="100" height="auto" padding-left="200px">
+<img src="JavaScript-Logo.png" width="200" height="auto"><img src="PHP-logo.svg.png" width="150" height="auto"> <img src="Bootstrap_logo.svg.png" width="100" height="auto" padding-left="200px">
