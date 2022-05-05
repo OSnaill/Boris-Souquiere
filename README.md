@@ -20,4 +20,9 @@
 ### Front-End 
 
 
-<img src="html.png" width="200" height="auto"><img src="css.png" width="200" height="auto"><img src="JavaScript-Logo.png" width="400" height="auto">
+<img src="html.png" width="200" height="auto"><img src="css.png" width="200" height="auto">
+
+
+## En cours d'acquisition
+
+<img src="JavaScript-Logo.png" width="400" height="auto">
