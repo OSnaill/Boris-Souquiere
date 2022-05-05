@@ -28,4 +28,4 @@
 
 # Objectifs futurs
 
-<img src="bulma.png">
+<img src="bulma.png" width ="100" height ="auto">
