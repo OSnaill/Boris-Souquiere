@@ -27,4 +27,4 @@
 
 <img src="JavaScript-Logo.png" width="400" height="auto"><img src="PHP-logo.svg.png" width="300" height="auto">
 
-<img src="Bootstrap_logo.svg.png" width="200" height="auto">
+<img src="Bootstrap_logo.svg.png" width="200" height="auto" padding-left:"200px">
