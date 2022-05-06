@@ -10,7 +10,7 @@
  
  Je suis une personne persévérante et curieuse, et je pourrais aussi ajouter que j'adore les jeux vidéos, la musique, la guitare électrique et les mangas.
  
- Disposant d'une envie de progresser sans fin, je ne compte pas arrêter d'apprendre. 
+ Disposant d'une envie de progresser sans fin. 
 
 
 # Compétences
