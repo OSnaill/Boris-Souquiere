@@ -18,7 +18,7 @@
 ---
 
 
-<img src="html.png" width="150" height="auto"><img src="css.png" width="150" height="auto"><img src="js-logo.png" width="100" height="auto">
+<img src="html.png" width="150" height="auto"><img src="css.png" width="150" height="auto"><img src="js-logo.png" width="150" height="auto">
 
 
 ## En cours d'acquisition
