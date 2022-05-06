@@ -18,12 +18,12 @@
 ---
 
 
-<img src="html.png" width="150" height="auto"><img src="css.png" width="150" height="auto">
+<img src="html.png" width="150" height="auto"><img src="css.png" width="150" height="auto"><img src="js-logo.png" width="100" height="auto">
 
 
 ## En cours d'acquisition
 
-<img src="js-logo.png" width="100" height="auto"><img src="PHP-logo.svg.png" width="150" height="auto"> <img src="Bootstrap_logo.svg.png" width="100" height="auto" padding-left="200px">
+<img src="PHP-logo.svg.png" width="150" height="auto"> <img src="Bootstrap_logo.svg.png" width="100" height="auto" padding-left="200px">
 
 
 # Compétences futures envisagées
