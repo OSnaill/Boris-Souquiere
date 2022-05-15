@@ -28,4 +28,4 @@
 
 # Compétences futures envisagées
 
-<img src="bulma.png" width ="20" height ="auto"> <img src="React-icon.svg.png" width ="50" height ="auto"> <img src="symfony.svg.png" width ="50" height ="auto"> 
+<img src="bulma.png" width ="50" height ="auto"> <img src="React-icon.svg.png" width ="50" height ="auto"> <img src="symfony.svg.png" width ="50" height ="auto"> 
