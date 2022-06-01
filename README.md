@@ -24,7 +24,7 @@
 
 ## En cours d'acquisition
 
-
+<img src="tailwind.png" width="100" height="auto">
 
 
 # Compétences futures envisagées
