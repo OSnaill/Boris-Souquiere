@@ -4,7 +4,7 @@
 
 ---
 
-## Bonjour
+## Bonjour :simple_smile:
  
  Je m'appelle SOUQUIERE Boris, et je suis en école pour développeur web chez O'Clock spé Symfony.
  
