@@ -17,7 +17,7 @@
 Here are some little project i did to practice:
 --
 A blog coded in symfony : https://github.com/OSnaill/blog-demo <br>
-A single page CV coded in TailwindCSS, VueJS with mobile-first mentality : https://github.com/OSnaill/blog-demo</br>
+A single page CV coded in TailwindCSS, VueJS with mobile-first mentality : https://github.com/OSnaill/CV-Boris-Souquiere </br>
 
 Here is the end project i did while my first formation: </br>
 It's a musician network realised with a 4 member team: </br>
