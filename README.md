@@ -26,13 +26,16 @@ https://www.youtube.com/watch?v=qHfnq1mhgsk
 
 # Technologies :wrench:
 
---
+## Front
+<img src="html.png" width="auto" height="50"><img src="css.png" width="auto" height="50"><img src="js-logo.png" width="auto" height="50">
 
-<img src="html.png" width="100" height="auto"><img src="css.png" width="100" height="auto"><img src="js-logo.png" width="100" height="auto">
-<img src="PHP-logo.svg.png" width="150" height="auto"> <img src="Bootstrap_logo.svg.png" width="100" height="auto" padding-left="200px">
-<img src="symfony.svg.png" width="80" height="auto"> 
+<img src="vue.png" width="auto" height="50">
+
+## Back
+<img src="PHP-logo.svg.png" width="auto" height="50">
+<img src="symfony.svg.png" width="auto" height="50"> 
+## Tools
 
 
 ## En cours d'acquisition
 
-<img src="vue.png" width="100" height="auto">
